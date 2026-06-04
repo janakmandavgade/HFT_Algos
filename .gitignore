@@ -10,8 +10,9 @@ __pycache__/
 # C extensions
 *.so
 .vscode
-BTCUSDT-bookTicker-2024-03-29.csv
-BTCUSDT-bookTicker-2024-03-29.zip
+BTCUSDT-bookTicker*
+*.zip
+/outputs/*
 
 # Distribution / packaging
 .Python
