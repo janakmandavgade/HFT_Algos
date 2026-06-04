@@ -1,0 +1,6 @@
+status,run_name,csv_file,risk_factor,kappa,max_inventory,final_equity,pnl,final_inventory,num_ticks,curve_file
+success,rf_010_k_150_inv_5_26,./BTCUSDT-bookTicker-2024-03-26/BTCUSDT-bookTicker-2024-03-26.csv,0.1,150.0,5,103545.17369166297,3545.1736916629743,1,4998999,outputs/rf_010_k_150_inv_5_26_curves.csv
+success,rf_010_k_150_inv_5_27,./BTCUSDT-bookTicker-2024-03-27/BTCUSDT-bookTicker-2024-03-27.csv,0.1,150.0,5,117340.6064091225,17340.606409122498,-1,4998999,outputs/rf_010_k_150_inv_5_27_curves.csv
+success,rf_010_k_150_inv_5_28,./BTCUSDT-bookTicker-2024-03-28/BTCUSDT-bookTicker-2024-03-28.csv,0.1,150.0,5,112842.25466807494,12842.254668074936,-1,4998999,outputs/rf_010_k_150_inv_5_28_curves.csv
+success,rf_010_k_150_inv_5_29,./BTCUSDT-bookTicker-2024-03-29/BTCUSDT-bookTicker-2024-03-29.csv,0.1,150.0,5,101564.5819892165,1564.5819892165018,-5,4998999,outputs/rf_010_k_150_inv_5_29_curves.csv
+success,rf_010_k_150_inv_5_30,./BTCUSDT-bookTicker-2024-03-30/BTCUSDT-bookTicker-2024-03-30.csv,0.1,150.0,5,100301.96637758809,301.96637758809084,-1,4998999,outputs/rf_010_k_150_inv_5_30_curves.csv
